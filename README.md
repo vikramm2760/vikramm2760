@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vikramm2760, Vikram Madhavan
-- 👀 I am a software engineer graduated from IIIT Bangalore with bachelors and masters in CSE.
-- 🌱 I am currently learning and exploring cloud technologies, trying my hand at full stack development as well.
-- 💞️ I would love to collaborate and learn new things, love talking to new people so feel free to connect with me.
+- Hi, I’m @vikramm2760, Vikram Madhavan
+- I am pursuing MSc Digital Sociology at University of Edinburgh
 - Gmail : vikramm2760@gmail.com
 - Linkedin: linkedin.com/in/vikramm2760
 
